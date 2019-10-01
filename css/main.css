@@ -25,3 +25,10 @@ html {
   color: #fff;
   text-shadow: 1px 1px 3px #000;
 }
+
+figure:first-child {
+  top: 6em;
+  left: 20%;
+  transform: rotate(-12deg);
+  z-index: 1;
+}
